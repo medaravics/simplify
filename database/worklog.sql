@@ -1,0 +1,1 @@
+create table story (id int auto_increment primary key, story_title varchar(1024), story_description TEXT, theme_id int, epic_id int, story_type int);  
